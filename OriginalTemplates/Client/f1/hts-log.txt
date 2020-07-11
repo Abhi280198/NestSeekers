@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 21 May 2019 17:55:19 at http://storage.googleapis.com/themevessel-products/neer/index-5.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://storage.googleapis.com/themevessel-products/neer/index-5.html -O1 "C:\Users\Admin\Desktop\rea\f1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:58:18	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from storage.googleapis.com/themevessel-products/neer/index-5.html)
+18:05:27	Error: 	"Forbidden" (403) at link storage.googleapis.com/themevessel-products/neer/css/images/layers.png (from storage.googleapis.com/themevessel-products/neer/css/leaflet.css)
+18:05:27	Error: 	"Forbidden" (403) at link storage.googleapis.com/themevessel-products/neer/css/images/layers-2x.png (from storage.googleapis.com/themevessel-products/neer/css/leaflet.css)
+18:05:28	Error: 	"Forbidden" (403) at link storage.googleapis.com/themevessel-products/neer/css/mCSB_buttons.png (from storage.googleapis.com/themevessel-products/neer/css/jquery.mCustomScrollbar.css)
+18:05:28	Error: 	"Forbidden" (403) at link storage.googleapis.com/themevessel-products/neer/img/slider-detail.png (from storage.googleapis.com/themevessel-products/neer/css/skins/default.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 26 seconds : 167 links scanned, 161 files written (17030606 bytes overall) [17158648 bytes received at 27409 bytes/sec]
+(5 errors, 0 warnings, 0 messages)

@@ -1,2 +1,2 @@
 # NestSeekers
-Real Estate Management System- This is a web based application using HTML,CSS, JAVASCRIPT, PHP and MySQL for different buyers, agents and owners who wants to buy, rent and sell their properties in a single platform.
+This Portal is basically the Real estate management system. here you can buy new property, also if you want to searching property as rent according to area vise also is available And you can sell your property also.
